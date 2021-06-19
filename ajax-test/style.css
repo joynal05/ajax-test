@@ -1,0 +1,11 @@
+.item h2 {
+    font-size: 18px;
+}
+
+.item img {
+    width: 100%;
+}
+
+.item {
+    box-shadow: 0 0 10px #ddd;
+}
